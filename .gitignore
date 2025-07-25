@@ -1,0 +1,13 @@
+# Mock and temp data
+mock_data/
+*.json
+*.csv
+*.xlsx
+
+# System files
+.DS_Store
+*.log
+
+# IDE/editor stuff
+.vscode/
+.idea/
